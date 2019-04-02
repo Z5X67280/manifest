@@ -15,7 +15,7 @@
   <project path="vendor/xiaomi" name="Z5X67280/android_vendor_xiaomi" remote="github" revision="PE-4.9" depth="1" />
 
   <!-- MIUI Camera -->
-  <project path="vendor/xiaomi/MiuiCamera" name="https://github.com/rama982/android_vendor_xiaomi_MiuiCamera" remote="github" depth="1" >
+  <project path="vendor/xiaomi/MiuiCamera" name="https://github.com/rama982/android_vendor_xiaomi_MiuiCamera" remote="github" revision="mkp" depth="1" >
     
 <!-- End -->
 
